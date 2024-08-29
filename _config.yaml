@@ -1,1 +1,4 @@
-remote_theme: the-monospace-web
+title: "My Personal Website"
+description: "Welcome to my website"
+baseurl: "" # Leave this empty for GitHub Pages
+url: "https://neueae.github.io"
